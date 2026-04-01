@@ -1,4 +1,4 @@
-# Hurricane Michael & other big hurricanes — Spatial GIS Analysis
+# Hurricane Michael & Other Big Hurricanes — Spatial GIS Analysis
 **Author:** Nazrina Haque | PhD Candidate, Oregon State University  
 **Funding:** USDA Forest Service  
 
